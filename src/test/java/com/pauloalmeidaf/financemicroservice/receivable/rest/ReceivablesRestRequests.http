@@ -1,0 +1,7 @@
+
+
+GET http://localhost:8080/receivable/list?personId=1
+Accept: application/json
+
+###
+
